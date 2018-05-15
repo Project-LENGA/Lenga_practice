@@ -20,4 +20,6 @@
 .byebug_history
 
 # npm related
+node_modules/
+public/build/
 yarn-error.log*
